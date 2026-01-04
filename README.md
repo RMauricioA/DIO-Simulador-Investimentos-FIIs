@@ -43,7 +43,8 @@ Porém o investidor deverá informar o valor do aporte mensal manualmente, isso 
 Juntamente com o perfil de investidor informado na etapa anterior, será sugerido um percentual de investimento para cada tipo de fundo imobiliário, será informado também o valor que esse percentual representa. 
 
 
-<img width="819" height="230" alt="image" src="https://github.com/user-attachments/assets/511dbc82-7782-4752-84e0-78c7cb17390f" />
+<img width="903" height="229" alt="image" src="https://github.com/user-attachments/assets/12370fc6-9e35-470b-b990-025afbc363a9" />
+
 
 ---
 
